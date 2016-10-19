@@ -1,0 +1,154 @@
+      /*@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);*/
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic);
+
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body {
+        font-family: 'Source Sans Pro';
+        color: #555555; }
+
+      h1, h2, h3, h4, h5, h6 {
+        font-family: 'Source Sans Pro';
+        font-weight: normal;
+        color: #555555;
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+.remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+
+.remark-slide-number { display: none; }
+
+       /* .remark-fading { z-index: 9; }  */
+
+      /* Thanks to http://www.partage-it.com/animez-vos-presentations-remark-js/  (in French) */
+       /* .remark-slide-container {transition: opacity 0.75s ease-out;opacity: 0;} */
+       /* .remark-visible {transition: opacity 0.75s ease-out;opacity: 1;} */
+
+.image-small {
+  max-height 300px;
+}
+
+.title {
+    font-size: 80px;
+    color: #00989e;
+    font-family: 'Source Sans Pro';
+}
+
+.bigtype {
+    font-size: 100px;
+    color: #00989e;
+    font-family: 'Source Sans Pro';
+}
+
+
+.remark-slide-content h1 {
+    font-size: 52px;
+    color: #00989e;
+}
+
+.remark-slide-content h2 {
+    font-size: 45px;
+    color: #555555;
+}
+
+.remark-slide-content h3 {
+    font-size: 38px;
+    color: #555555;
+    margin-top: .5em;
+    margin-bottom: 0em;
+    margin-left: 1em;
+}
+
+.remark-slide-content h4 {
+    font-size: 30px;
+    color: #555555;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+.remark-slide-content h5 {
+    font-size: 40px;
+    color: #00989e;
+    margin-top: 1em;
+    margin-bottom: 0em;
+}
+
+.remark-slide-content h6 {
+    font-size: 30px;
+    color: #555555;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+.footnote {
+    position:absolute;
+    bottom: 4.25em;
+    right: 15em;
+    font-size: 14px;
+    color: #555555;
+    font-family: 'Source Sans Pro';
+}
+
+.photocredit {
+    position:absolute;
+    bottom: 3.25em;
+    left: 20.75em;
+    font-size: 14px;
+    color: #FFFFFF;
+    font-family: 'Source Sans Pro';
+}
+
+
+.source {
+    position:absolute;
+    bottom: 4.25em;
+    right: 1em;
+    font-size: 14px;
+    color: #555555;
+    font-family: 'Source Sans Pro';
+}
+
+
+
+
+/* Header/Footer stuff */
+
+div.my-footer {
+    background-color: #00989e;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    height: 40px;
+    width: 100%;
+}
+
+div.my-footer span {
+    font-size: 12pt;
+    color: #FFFFFF;
+    position: absolute;
+    right: 15px;
+    bottom: 10px;
+}
+
+div.my-footer span.left {
+    left: 15px;
+}
+
+div.my-footer span.right {
+    right: 15px;
+}
+
+ul {
+  list-style-type: none;
+  margin:0 .2em 0 -1.85em;
+}
+
+  /*li:before {
+  content: "+";
+  padding-right: 5px;
+}*/
