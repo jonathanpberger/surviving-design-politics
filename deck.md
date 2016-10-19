@@ -3,7 +3,7 @@ class: center
 subsection:
 
   <div class="my-footer">
-    <span class=left>Michelle M. Chu</span>
+    <span class=left>Michelle M. Chu • Surviving Design Politics</span>
     <span class=right>@michellemchu</span>
   </div>
 
@@ -26,10 +26,7 @@ background-size: contain;
 
 .photocredit[<a href="https://www.flickr.com/photos/max-goldberg/24490981735/">Trump photo</a> (cropped) by Max Goldberg / <a href="https://creativecommons.org/licenses/by/2.0/">CC BY-SA 2.0</a> | <a href="https://www.flickr.com/photos/14079872@N00/25385452430">Clinton photo</a> (cropped) by Nathania Johnson / <a href="https://creativecommons.org/licenses/by/2.0/">CC BY-SA 2.0</a>]
 
-
-
 ???
-
 
 I’m going to be completely honest. I have spent my entire career trying to avoid politics.
 
@@ -66,6 +63,7 @@ I’ve had quite a range of experiences.
 - After doing this over and over again, I realized that, despite different team members, company structures, and changing technologies, three things stayed the same:
 
 ---
+class: left
 name: 3truths
 
 ## <strong>The 3 Truths</strong>
